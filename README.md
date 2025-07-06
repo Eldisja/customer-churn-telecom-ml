@@ -1,1 +1,1 @@
-# customer-churn-telecom-ml
+# Customer Churn Prediction in Telecommunications Using Machine Learning
